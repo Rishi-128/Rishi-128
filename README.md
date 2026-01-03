@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @Rishi-128
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning python and web development
-- 💞️ I’m looking to collaborate on projects that combine web development and python , aiming to create impactful and user-friendly applications. 
-- 📫 How to reach me : Connect me on Linkedln(https://www.linkedin.com/in/rishi-jain-37bb31309) to discuss potential projects and collaborations.
-- 😄 Pronouns: He/Him
+👋 Hi, I’m Rishi  
 
+🚀 I’m a Python developer with interests in backend web development, applied machine learning, and open-source software.  
+I enjoy building systems that combine **clean backend logic**, **real-world problem solving**, and **scalable design**.
 
-<!---
-Rishi-128/Rishi-128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧠 Areas of Interest  
+- Python & Backend Development (Flask)  
+- Applied Machine Learning  
+- Education Technology & Open Knowledge Systems  
+- Open Source Contribution  
+
+🛠️ Tech Stack  
+- Languages: Python  
+- Web: Flask, HTML, CSS, JavaScript  
+- Databases: MySQL (basic), SQLite  
+- Tools: Git, GitHub  
+
+🌱 Currently  
+- Actively contributing to open-source projects  
+- Preparing for **Google Summer of Code (GSoC 2026)**  
+- Improving code quality, testing, and documentation through real contributions  
+
+🤝 Open to Collaborate On  
+- Python / Flask-based projects  
+- ML-powered web applications  
+- Education or developer-focused open-source tools  
+
+📫 Connect with me  
+- LinkedIn: https://www.linkedin.com/in/rishijain2005
+
+😄 Pronouns: He/Him
